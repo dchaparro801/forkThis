@@ -1,17 +1,18 @@
-# Project Title
+# Full Stack Boot Camp Learn
 
-## Forkthis Repo for Practice
+## Using this to learn web dev
 
-### Write your author name here. eg. By Nicole
+### By Derrick C
 
 ### Description
 
-Create a description and fill it in here.
+Learning full stack web development with CodeBaseAcademy through Udemy.  This will be a file to learn and practice web development with HTML, CSS and Javascript.
 
 ## Languages used
 
-What languages were used for this repo:
-List them
+HTML
+CSS
+JavaScript
 
 ### Known Bugs
 
@@ -19,10 +20,12 @@ Are there any? If so what are they?
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is not licensed just a practice project.
 
 ## Acknowledgments
 
 * Hat tip to anyone who's code was used
 * Inspiration
-* etc
+* CodeBaseAcademy
+* Udemy courses
+* GitHub
